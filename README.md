@@ -6,6 +6,10 @@
 * [Contributing](#contributing)
 * [Dependencies](#dependencies)
 
+
+## Play Game
+http://mehulagrawal.in/memory-game/
+
 ## Play Instructions
 - Game objective is to find all matching cards.
 - Steps:
